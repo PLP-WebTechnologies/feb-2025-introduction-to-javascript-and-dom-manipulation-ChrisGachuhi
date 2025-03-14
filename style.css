@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
